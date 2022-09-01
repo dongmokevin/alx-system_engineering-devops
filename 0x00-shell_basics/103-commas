@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Ffm --sort=v
+ls -Fam --sort=v
