@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -v [0-9] /ect/passwd
+grep -v [0-9] /etc/passwd
